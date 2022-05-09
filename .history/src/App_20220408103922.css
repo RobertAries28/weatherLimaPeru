@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.weather{
+  border: 1px solid blue;
+  padding: 10px;
+
+ 
+}
+

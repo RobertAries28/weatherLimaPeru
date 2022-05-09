@@ -7,8 +7,6 @@
   height: 100vh;
   font-size: 15px;
   background-image: url("https://cdn.pixabay.com/photo/2022/01/03/05/45/sunset-6911736_960_720.jpg");
-  background-repeat: no-repeat;
-  background-size: 100%;
 }
 span{
   font-weight: bolder;
@@ -16,7 +14,7 @@ span{
 
 .weather{
   z-index: 20000;
-  border: 5px solid blueviolet;
+  border: 1px solid blueviolet;
   padding: 20px;
   border-radius: 10px;
   margin: 20px;

@@ -16,7 +16,7 @@ span{
 
 .weather{
   z-index: 20000;
-  border: 5px solid blueviolet;
+  border: 1px solid blueviolet;
   padding: 20px;
   border-radius: 10px;
   margin: 20px;

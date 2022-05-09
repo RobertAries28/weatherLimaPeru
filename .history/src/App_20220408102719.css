@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+  
+}
+
+.weather{
+  border: 1px solid blue;
+  
+}
+

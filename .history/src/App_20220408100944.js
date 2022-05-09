@@ -1,11 +1,10 @@
 
-import ApiWheather from './ApiWheather';
 import './App.css';
 
 const  App=()=> {
   return (
     <div className='App'>
-    <ApiWheather/>
+    <h1>hola</h1>
     </div>
   );
 }
